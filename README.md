@@ -1,16 +1,12 @@
-### Hi there 👋
+<h3>Hi! 👋 I'm Frank </h3>
 
-<!--
-**franktsai127/franktsai127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 CS @ Oregon State University (Fall 2024)
+- 💼 Software Engineer @ Morrison Express
+- 💻 Specialize in back-end engineering
+- 🌱 Aspiring contributor to Open Source
+- 📫 How to reach me: frank.tsai.mj@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=franktsai127&show_icons=true&theme=prussian&hide=stars,issues" alt="Frank's GitHub Public Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franktsai127&layout=compact" alt="Top Langs"/>
+</div>
