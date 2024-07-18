@@ -6,7 +6,3 @@
 - 🌱 Aspiring contributor to Open Source
 - 📫 How to reach me: frank.tsai.mj@gmail.com
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=franktsai127&show_icons=true&theme=prussian&hide=stars,issues" alt="Frank's GitHub Public Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franktsai127&layout=compact" alt="Top Langs"/>
-</div>
