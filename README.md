@@ -1,6 +1,6 @@
 <h3>Hi! 👋 I'm Frank </h3>
 
-- 🎓 CS @ Oregon State University (Fall 2024)
+- 🎓 CS @ Oregon State University (Expected Spring 2026)
 - 💼 Software Engineer
 - 💻 Specialize in back-end engineering
 - 🌱 Aspiring contributor to Open Source
